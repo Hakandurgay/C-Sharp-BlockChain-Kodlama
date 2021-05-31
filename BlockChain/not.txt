@@ -1,0 +1,5 @@
+
+
+proof of work ile üretilen coinlerde
+nonce deðeri ile bloðuk hashi tekrar hashlenir
+Nonce deðerini bilen miner hak kazanýr
